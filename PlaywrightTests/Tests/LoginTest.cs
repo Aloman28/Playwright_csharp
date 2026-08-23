@@ -1,12 +1,12 @@
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Microsoft.Playwright; 
-using qa_hiring_xkddou.Pages;
+using PlaywrightTests.Pages;
 using Microsoft.Playwright.NUnit;
 using NUnit.Framework;
 using System.Diagnostics;
 
-namespace qa_hiring_xkddou.Tests;
+namespace PlaywrightTests.Tests;
 
 [Parallelizable(ParallelScope.Self)]
 [TestFixture]
