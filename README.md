@@ -1,3 +1,5 @@
+![Playwright Tests](https://github.com/Aloman28/Playwright_csharp/actions/workflows/playwright.yml/badge.svg)
+
 ### Objective
 
 Automated test cases for an online shop to test the core functionality of the site.
