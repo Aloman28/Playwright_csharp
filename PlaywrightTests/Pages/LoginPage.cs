@@ -1,6 +1,6 @@
 using Microsoft.Playwright;
 
-namespace qa_hiring_xkddou.Pages;
+namespace PlaywrightTests.Pages;
 
 public class LoginPage
 {
